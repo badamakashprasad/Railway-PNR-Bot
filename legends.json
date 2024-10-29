@@ -1,0 +1,72 @@
+{
+    "legends" : [
+        {
+            "Symbol": "CAN / MOD",
+            "Description": "Cancelled or Modified Passenger"
+        },
+        {
+            "Symbol": "CNF / Confirmed",
+            "Description": "Confirmed (Coach/Berth number will be available after chart preparation)"
+        },
+        {
+            "Symbol": "RAC",
+            "Description": "Reservation Against Cancellation"
+        },
+        {
+            "Symbol": "WL #",
+            "Description": "Waiting List Number"
+        },
+        {
+            "Symbol": "RLWL",
+            "Description": "Remote Location Wait List"
+        },
+        {
+            "Symbol": "GNWL",
+            "Description": "General Wait List"
+        },
+        {
+            "Symbol": "PQWL",
+            "Description": "Pooled Quota Wait List"
+        },
+        {
+            "Symbol": "REGRET/WL",
+            "Description": "No More Booking Permitted"
+        },
+        {
+            "Symbol": "RELEASED",
+            "Description": "Ticket Not Cancelled but Alternative Accommodation Provided"
+        },
+        {
+            "Symbol": "R# #",
+            "Description": "RAC Coach Number Berth Number"
+        },
+        {
+            "Symbol": "WEBCAN",
+            "Description": "Railway Counter Ticket Passenger cancelled through internet and Refund not collected"
+        },
+        {
+            "Symbol": "WEBCANRF",
+            "Description": "Railway Counter Ticket Passenger cancelled through internet and Refund collected"
+        },
+        {
+            "Symbol": "RQWL",
+            "Description": "Roadside Quota Waitlist"
+        },
+        {
+            "Symbol": "DPWL",
+            "Description": "Duty Pass Waitlist"
+        },
+        {
+            "Symbol": "TQWL",
+            "Description": "Tatkal Quota Waitlist"
+        },
+        {
+            "Symbol": "NT",
+            "Description": "Passenger Not Turned Up"
+        },
+        {
+            "Symbol": "TDR",
+            "Description": "Passenger has filed TDR"
+        }
+    ]
+}
