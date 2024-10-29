@@ -25,7 +25,7 @@ RailwaysPNRBot is a Python automation script that uses Selenium and Tesseract OC
 2. **Install Dependencies**: Use pip to install the required packages:
 
    ```bash
-   pip install selenium pytesseract pillow pandas
+   pip install -r requirements.txt
 3. **Download Tesseract OCR**: Install Tesseract OCR from Tesseract at UB Mannheim.
 Note the installation path (e.g., C:\\Program Files\\Tesseract-OCR\\tesseract.exe).
 4. **Download ChromeDriver**: Download the ChromeDriver from ChromeDriver downloads.
