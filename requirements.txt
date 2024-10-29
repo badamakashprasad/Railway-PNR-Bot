@@ -1,0 +1,4 @@
+selenium>=4.0.0
+pytesseract>=0.3.8
+Pillow>=8.0.0
+pandas>=1.1.0
