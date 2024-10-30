@@ -2,3 +2,7 @@
 Tesseract-OCR/
 chromedriver.exe
 
+__pycache__/WebScrapper.cpython-313.pyc
+__pycache__/OCRToText.cpython-313.pyc
+__pycache__/constants.cpython-313.pyc
+.env
